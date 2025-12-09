@@ -1,6 +1,7 @@
-📱 Phone Configuration App
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/47477168-3bab-476f-881c-c563fdcda286" />📱 GrandStream Phone Configuration App
 
 A simple and powerful application that allows users to configure and manage phone settings easily. Built with C# / .NET, following clean architecture and user-friendly UI.
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f788a6ef-2dd3-4abb-85fd-f8804fc0c521" />
 
 🚀 Features
 
@@ -10,20 +11,10 @@ A simple and powerful application that allows users to configure and manage phon
 
 🎨 Customize UI preferences
 
-🔐 Secure data handling
-
-💾 Local storage support
-
 ⚡ Fast and optimized performance
 
 🛠️ Tech Stack
 
 C# / .NET 8
 
-WinForms / WPF / MAUI (choose your platform)
 
-Entity Framework Core (if using database)
-
-SQLite / Local JSON storage
-
-MVVM / MVC patterns
