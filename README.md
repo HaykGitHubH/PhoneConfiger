@@ -2,7 +2,7 @@ A simple and powerful application that allows users to configure and manage phon
 
 <img width="300" height="300" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/788eb4bb-219f-4a5e-ab13-cd8006743144" />
 
-<img  style = "margin-bottom:140;" width="253" height="249" alt="image" src="https://github.com/user-attachments/assets/7c76a972-c5d0-4483-b011-d0dc36937513" />
+<img width="253" height="249" alt="image" src="https://github.com/user-attachments/assets/7c76a972-c5d0-4483-b011-d0dc36937513" />
 
 🚀 Features
 
