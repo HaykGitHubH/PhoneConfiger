@@ -1,5 +1,6 @@
 A simple and powerful application that allows users to configure and manage phone settings easily. Built with C# / .NET, following clean architecture and user-friendly UI.
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f788a6ef-2dd3-4abb-85fd-f8804fc0c521" />
+
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/8ba1320f-e424-4e6f-ad18-f5425ffc149c" />
 
 🚀 Features
 
